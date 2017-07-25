@@ -1,2 +1,2 @@
 # tabs
-Simple Tab With jquery
+Simple Tab Navigation With jquery
